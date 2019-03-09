@@ -22,15 +22,6 @@ namespace Palindrome
                 {
                     Console.WriteLine($"{input} is not a palindrome!");
                 }
-                //List<char> theInput = new List<char>();
-
-                //foreach(char character in input)
-                //{
-                //    theInput.Add(character);
-                //    Console.WriteLine(character);
-                //}
-
-                //Console.WriteLine("theInput: ", theInput);
             }
 
             Console.WriteLine($"Enter word to check if it's a palindrome: ");
